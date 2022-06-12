@@ -1,16 +1,20 @@
-### Hi there 👋
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=AppleWorm&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
 
-<!--
-**AppIeWorm/AppIeWorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/itaditya#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=AppleWorm&hide=contribs&show_icons=true&theme=light#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AppleWorm&layout=compact&theme=dark#gh-light-mode-only" alt="My Most Used Languages" />
+</a>
+
+<a href="https://github.com/itaditya#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AppleWorm&layout=compact&theme=light#gh-dark-mode-only" alt="My Most Used Languages" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=AppleWorm&color=blueviolet)
+<br>
