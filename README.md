@@ -1,5 +1,5 @@
 <a href="https://github.com/itaditya#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=AppleWorm&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AppIeWorm&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/itaditya#gh-light-mode-only">
