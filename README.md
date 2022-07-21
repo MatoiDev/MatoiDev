@@ -1,20 +1,7 @@
-<a href="https://github.com/itaditya#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=AppIeWorm&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/itaditya#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=AppIeWorm&hide=contribs&show_icons=true&theme=light#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
-
-<br/>
-
-<a href="https://github.com/itaditya#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AppIeWorm&layout=compact&theme=dark#gh-light-mode-only" alt="My Most Used Languages" />
-</a>
-
-<a href="https://github.com/itaditya#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AppIeWorm&layout=compact&theme=light#gh-dark-mode-only" alt="My Most Used Languages" />
-</a>
+![](https://raw.githubusercontent.com/AppIeWorm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AppIeWorm/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/AppIeWorm/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AppIeWorm/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=AppIeWorm&color=blueviolet)
 <br>
