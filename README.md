@@ -1,5 +1,5 @@
 <a href="https://matoidev.github.io/repo/">
-    <img src="Assets/HeaderWithTitle.png">
+    <img src="Assets/Header.png">
 </a>
 
 <header  style="font-family: Ubuntu">
@@ -8,19 +8,18 @@ I develop mobile applications for iOS platform. Creator of [Coda](https://github
 
 Hobbyist ESP-family microcontroller developer. I like to create robots with CV, airplane-type FPV drones, and all sorts of little things like Hot Wheels RC car. Of course, I [combine](https://github.com/MatoiDev/Keira) this hobby with iOS development.
 
-Current iOS Tweaks developer. My favourite hobby. I like to customise my phone, sometimes I share my stuff with the GitHub community, check out [Violet](https://github.com/MatoiDev/Violet) and [Notifake](https://github.com/MatoiDev/Notifake)
+Current iOS Tweaks developer. My favourite hobby. I like to customise my phone, sometimes I share my stuff with the GitHub community, check out [Violet](https://github.com/MatoiDev/Violet) and [Notifake](https://github.com/MatoiDev/Notifake).
 
 </header>
 
-
-
-<header style="font-size: 24px; text-align: center; font-weight: bold; font-family: Ubuntu">
+<h2 align="center" style="font-weight: bold; font-family: Ubuntu">
     Technology Stack
-</header>
+    <img src="Assets/stack.svg" width="30" style="vertical-align: middle; margin-top: -6px;">
+</h2>
 
 ####  <header style="font-weight: bold; font-family: Ubuntu"> Languages <header/>
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,12 +36,10 @@ Current iOS Tweaks developer. My favourite hobby. I like to customise my phone, 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 
-<br/>
-
-
-<header style="font-size: 24px; text-align: center; font-weight: bold; font-family: Ubuntu">
+<h2 align="center" style="font-weight: bold; font-family: Ubuntu">
     My Github Stats
-</header>
+    <img src="Assets/statistics.svg" width="30" style="vertical-align: middle; margin-top: -6px;">
+</h2>
 
 <br/>
 
