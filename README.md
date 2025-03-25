@@ -10,6 +10,8 @@ Hobbyist ESP-family microcontroller developer. I like to create robots with CV, 
 
 Current iOS Tweaks developer. My favourite hobby. I like to customise my phone, sometimes I share my stuff with the GitHub community, check out [Violet](https://github.com/MatoiDev/Violet) and [Notifake](https://github.com/MatoiDev/Notifake).
 
+$$\text{Life}=\int_{\text{birth}}^{\text{death}}\frac{\text{ Code}}{\text{time}}\Delta\text{time}$$
+
 </header>
 
 <h2 align="center" style="font-weight: bold; font-family: Ubuntu">
